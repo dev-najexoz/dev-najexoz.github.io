@@ -1,126 +1,67 @@
-# Hi there, I'm Najexoz 👋
+<h1 align="center">Hi 👋! I'm Muhammed Najah P <br> A Developer & Designer from Kerala, India</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/dev-najexoz?style=social)](https://github.com/dev-najexoz)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-najexoz/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dev_najexoz)
+###
 
-## I'm a Frontend Developer and a Tech Enthusiast!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajnanmvr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajnanmvr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-👨‍💻 I'm passionate about building amazing web experiences. I specialize in **HTML**, **CSS**, **JavaScript**, and **React**. I am always looking to improve my skills and learn new technologies.
+###
 
-### 📊 GitHub Stats
+<img align="right" height="150" src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif"  />
 
-![dev-najexoz GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-najexoz&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+###
 
-### 📈 My Coding Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-najexoz&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
----
+###
 
-### 💡 About Me
-
-- 🎨 I design interactive websites and create unique user interfaces.
-- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- 📚 I love contributing to open-source projects and sharing my knowledge with others.
-- 💬 Ask me about **Frontend Development**, **Web Design**, **React**, **Vue.js**, and anything coding-related!
-
----
-
-### 🛠️ Technologies and Tools
-
-I love working with the following tools:
-
-- **Languages**: HTML, CSS, JavaScript, TypeScript, Node.js
-- **Frontend**: React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap
-- **Version Control**: Git, GitHub, GitLab
-- **Design**: Figma, Adobe XD, Canva
-
----
-
-### 🖼️ My Projects (Feel free to check them out!)
-
-- **[Personal Portfolio](https://github.com/dev-najexoz/portfolio)** - A dynamic portfolio showcasing my web development projects.
-- **[Task Manager](https://github.com/dev-najexoz/task-manager)** - A to-do list app built with React and Node.js.
-- **[E-Commerce Website](https://github.com/dev-najexoz/ecommerce-site)** - A responsive online store built using HTML, CSS, and JavaScript.
-
----
-
-### 🏆 My Achievements
-
-- ✅ **100+** GitHub contributions in 2024!
-- 🚀 Featured as a **Top Contributor** in [Frontend Developer Community](https://www.dev.to/).
-- 🏅 **Codewars Gold** (working on my problem-solving skills!)
-
----
-
-### 🤖 Fun Facts
-
-- 🕹️ When I'm not coding, I love playing video games (especially RPGs 🎮).
-- 🌍 I’m passionate about traveling and exploring new cultures!
-- 🐦 I sometimes tweet my thoughts and coding adventures [here](https://twitter.com/dev_najexoz).
-  
----
-
-### 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/dev-najexoz/)
-- [Twitter](https://twitter.com/dev_najexoz)
-- [Instagram](https://www.instagram.com/dev_najexoz/)
-
----
-
-### 📢 Blog and Writing
-
-I occasionally write articles about Frontend development, UI/UX, and more. Check out my latest posts!
-
-- **[Building a Dynamic React App](https://dev.to/dev-najexoz/building-a-dynamic-react-app-1234)**  
-- **[Getting Started with Tailwind CSS](https://dev.to/dev-najexoz/getting-started-with-tailwind-css-5678)**
-
----
-
-### 🚀 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-najexoz&theme=github&hide_border=true&area=true)
-
----
-
-### 🧑‍💻 Latest Code Contributions
-
-![Contribution](https://github.com/dev-najexoz/dev-najexoz/blob/main/images/code-contribution.gif)
-
----
-
-### 👨‍💻 I'm currently working on:
-
-- **Learning and mastering **Next.js**.
-- Building a custom **E-commerce** site with **React**.
-
----
-
-### 🌱 How to Reach Me?
-
-- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
-- 📧 GitHub: [https://github.com/dev-najexoz](https://github.com/dev-najexoz)
-
----
-
-### 🖥️ GIFs and Fun!
-
-Here’s a small fun GIF of me learning new things:
-
-![Learning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA1M2puenZvZmhyZnRwcDV5NDk4YTZ1ZzIxZDU1cnplNW9zM2RvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
-
----
-
-### 🎉 Thanks for visiting my profile! 
-
-If you like what I do, don’t forget to hit the **star** ⭐ on my repositories and **follow me** for updates on my latest projects.
-
----
-
-<p align="center">
-  <a href="https://github.com/dev-najexoz">
-    <img src="https://github.com/dev-najexoz/dev-najexoz/blob/main/images/thanks.gif" alt="Thank You!">
+<div align="center">
+  <a href="https://www.instagram.com/_ajna.n_z1_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</p>
+  <a href="ajnanpulikkathody@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-ajnan-095993198/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/tryangle_solutions" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
